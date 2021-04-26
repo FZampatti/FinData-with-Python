@@ -7,9 +7,10 @@ Author: Filippo Zampatti
 ## Data
 
 The data has been collected in the Excel file "Swap Data" and it's sourced from Bloomberg.
-The workbook comprises of three worksheets with daily, weekly and monthly data for a period of approximately 21 years (from 2000)
+The workbook comprises of three worksheets with daily, weekly and monthly data for a period of approximately 20 years (from 2001)
 
 ## Python code files
+
 #1 Import Swap data from Excel file
 
 #2 NSS Model
